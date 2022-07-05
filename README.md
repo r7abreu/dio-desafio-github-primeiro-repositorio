@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
+# desafio-github-primeiro-repositorio
 Reposotório criado para Desafio de projeto de Git/Github
 
 ##Links utéis
